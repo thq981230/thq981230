@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-08T10:33:30.346Z",
+  "exportedAt": "2026-07-23T09:23:05.645Z",
   "categories": [
     {
       "id": 10,
@@ -51,6 +51,146 @@
     }
   ],
   "dishes": [
+    {
+      "id": 55,
+      "name": "粉蒸排骨",
+      "categoryId": 11,
+      "categoryName": "川菜",
+      "imageUrl": "public-assets/asset-50-powder-steamed-ribs.jpg",
+      "flavor": "咸香微辣",
+      "difficulty": "normal",
+      "cookingTime": 70,
+      "ingredients": "排骨 500 克\n蒸肉米粉 100 克\n郫县豆瓣酱 1 勺\n生抽 1 勺\n料酒 1 勺\n姜末 适量\n蒜末 2 瓣\n花椒粉 少许\n辣椒粉 少许\n盐 少许\n食用油 1 勺\n葱花 少许",
+      "ingredientItems": [
+        {
+          "id": "dish-new-powder-steamed-ribs-1",
+          "name": "排骨",
+          "amount": "500",
+          "unit": "克",
+          "category": "meat",
+          "isPantry": false,
+          "note": "",
+          "sortOrder": 0
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-2",
+          "name": "蒸肉米粉",
+          "amount": "100",
+          "unit": "克",
+          "category": "staple",
+          "isPantry": false,
+          "note": "",
+          "sortOrder": 1
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-3",
+          "name": "郫县豆瓣酱",
+          "amount": "1",
+          "unit": "勺",
+          "category": "seasoning",
+          "isPantry": true,
+          "note": "",
+          "sortOrder": 2
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-4",
+          "name": "生抽",
+          "amount": "1",
+          "unit": "勺",
+          "category": "seasoning",
+          "isPantry": true,
+          "note": "",
+          "sortOrder": 3
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-5",
+          "name": "料酒",
+          "amount": "1",
+          "unit": "勺",
+          "category": "seasoning",
+          "isPantry": true,
+          "note": "",
+          "sortOrder": 4
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-6",
+          "name": "姜末",
+          "amount": "适量",
+          "unit": "",
+          "category": "aromatics",
+          "isPantry": false,
+          "note": "",
+          "sortOrder": 5
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-7",
+          "name": "蒜末",
+          "amount": "2",
+          "unit": "瓣",
+          "category": "aromatics",
+          "isPantry": false,
+          "note": "",
+          "sortOrder": 6
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-8",
+          "name": "花椒粉",
+          "amount": "少许",
+          "unit": "",
+          "category": "seasoning",
+          "isPantry": true,
+          "note": "",
+          "sortOrder": 7
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-9",
+          "name": "辣椒粉",
+          "amount": "少许",
+          "unit": "",
+          "category": "seasoning",
+          "isPantry": true,
+          "note": "",
+          "sortOrder": 8
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-10",
+          "name": "盐",
+          "amount": "少许",
+          "unit": "",
+          "category": "seasoning",
+          "isPantry": true,
+          "note": "",
+          "sortOrder": 9
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-11",
+          "name": "食用油",
+          "amount": "1",
+          "unit": "勺",
+          "category": "seasoning",
+          "isPantry": true,
+          "note": "",
+          "sortOrder": 10
+        },
+        {
+          "id": "dish-new-powder-steamed-ribs-12",
+          "name": "葱花",
+          "amount": "少许",
+          "unit": "",
+          "category": "aromatics",
+          "isPantry": false,
+          "note": "",
+          "sortOrder": 11
+        }
+      ],
+      "steps": "1. 排骨剁成小段，清水浸泡 20 分钟去掉血水，洗净后充分沥干。\n2. 加入郫县豆瓣酱、生抽、料酒、姜末、蒜末、花椒粉、辣椒粉和少许盐，抓匀腌制 30 分钟。\n3. 腌好的排骨拌入蒸肉米粉，再加一勺食用油，让米粉均匀裹在排骨表面。\n4. 将排骨平铺在深盘中，水开后上锅蒸 50 到 60 分钟，直到排骨软烂入味。\n5. 出锅后撒上葱花即可。",
+      "tips": "排骨一定要沥干再腌，蒸肉米粉才裹得均匀；蒸到筷子能轻松插入时口感最好。",
+      "remark": "川味粉蒸排骨，米粉软糯、排骨入味，适合做今晚的主菜。",
+      "isFavorite": false,
+      "status": "enabled",
+      "createdAt": "2026-07-23T09:22:31.673Z",
+      "updatedAt": "2026-07-23T09:22:31.673Z"
+    },
     {
       "id": 54,
       "name": "丝瓜汤",
